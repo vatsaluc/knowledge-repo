@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Knowledge Repository
 
 This is a git repository that stores documents called "Knowledge Posts" in a
@@ -57,3 +58,6 @@ knowledge_repo --repo <repo_path> submit project/example
 
 Once ready, merge your branch into master, and your post will shortly thereafter
 appear in attached *Knowledge Repo* servers.
+=======
+# knowledge-repo
+>>>>>>> 60057709a480bc5989b847e90d4c55f797c54c3d
